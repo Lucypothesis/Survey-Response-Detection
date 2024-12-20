@@ -4,4 +4,4 @@ The program features automatic response processing and classification, enabling 
 
 **Results:** Achieved a classification accuracy of 96.127% for multiple-choice responses.   
 
-<img src="https://github.com/user-attachments/assets/e0e9809a-0271-4caa-8b0e-57ea703434c8" alt="githubreadme" width="800"/>
+<img src="https://github.com/user-attachments/assets/e0e9809a-0271-4caa-8b0e-57ea703434c8" alt="githubreadme" width="700"/>
